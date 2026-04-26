@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+nav {
+    margin-bottom: 30px;
+}
+
+nav a {
+    margin: 15px;
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+
+h1 {
+    color: #222;
+}
+
+img {
+    margin-top: 20px;
+    border-radius: 10px;
+}
